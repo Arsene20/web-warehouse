@@ -7,9 +7,6 @@ import { Button, Col, Form, Row, Navbar, Nav, NavDropdown, Container } from 'rea
 //     enterButtonAction() {
 
       
-    
-//       }
-
  const Menu = () => {
     return (
         <div>
